@@ -1,0 +1,51 @@
+.Navegacion li{
+    display: inline;
+    width: auto;
+    padding: 10px;
+    border: solid black 2px;
+}
+.primerparrafo{
+     width: 1366px;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+}
+.parrafoimportante{
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.doometernaltheancientgods{
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+img{
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+p{
+    width: 1366px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+h1{
+    text-align: center;
+    color:red;
+}
+.Parrafojustificado{
+    text-align: start;
+}
+ul{
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+    
