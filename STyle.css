@@ -65,4 +65,16 @@ embed{
     margin-right: auto;
     display: block;
 }
+.imagen1{
+    width: 683px;
+}
+.imagen2{
+    width: 683px;
+
+}
+.imagenes{
+    display: inline-flex;
+    margin-left: auto;
+    margin-right: auto;
+}
     
