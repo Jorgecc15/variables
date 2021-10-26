@@ -9,6 +9,7 @@
      margin-left: auto;
      margin-right: auto;
      display: block;
+    transform: scale(1,1.5);
 }
 .parrafoimportante{
     width: 1366px;
@@ -51,5 +52,11 @@ ul{
 h2{
     text-align: center;
     color:red;
+}
+iframe{
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
     
