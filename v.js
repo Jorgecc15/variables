@@ -1,6 +1,5 @@
-var numero = prompt("ingrese un numero")
-var numero2 = prompt("Ingrese otro numero")
-var suma = numero + numero2
+var numero = Number(prompt("ingrese un numero"))
+var numero2 = Number(prompt("Ingrese otro numero"))
 alert("La multiplicación de los dos números es "+( numero * numero2 ))
 alert("La resta de los dos números es " + (numero - numero2 ))
 alert("La división de los dos números es "+(numero / numero2))
